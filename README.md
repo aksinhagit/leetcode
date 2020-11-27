@@ -29,7 +29,7 @@ LeetCode
 |0023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | c | [c++](./0023-Merge-k-Sorted-Lists/0023.cpp) |[python](./0023-Merge-k-Sorted-Lists/0023.py)||| |Hard|
 |0024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | c | [c++](./0024-Swap-Nodes-in-Pairs/0024.cpp) |[python](./0024-Swap-Nodes-in-Pairs/0024.py)||| |Medium|
 |0025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | c | [c++](./0025-Reverse-Nodes-in-k-Group/0025.cpp) |[python](./0025-Reverse-Nodes-in-k-Group/0025.py)||| |Hard|
-|0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | c | [c++](./0026-Remove-Duplicates-from-Sorted-Array/0026.cpp) |[python](./0026-Remove-Duplicates-from-Sorted-Array/0026.py)||| |Easy|
+|0026|[Remove Duplicates from Sorted Array  - Success ](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | c | [c++](./0026-Remove-Duplicates-from-Sorted-Array/0026.cpp) |[python](./0026-Remove-Duplicates-from-Sorted-Array/0026.py)||| |Easy|
 |0027|[Remove Element](https://leetcode.com/problems/remove-element/) | c | [c++](./0027-Remove-Element/0027.cpp) |[python](./0027-Remove-Element/0027.py)||| |Easy|
 |0028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | c | [c++](./0028-Implement-strStr()/0028.cpp) |[python](./0028-Implement-strStr()/0028.py)||| |Easy|
 |0029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | c | [c++](./0029-Divide-Two-Integers/0029.cpp) |[python](./0029-Divide-Two-Integers/0029.py)||| |Medium|
