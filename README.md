@@ -3,7 +3,7 @@ LeetCode
  
 
 | # | Title | c | c++ | python | go | js | java | Difficulty |
-|---| ----- | -------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+|---| ----- | -------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ------- |
 |0001|[Two Sum](https://leetcode.com/problems/two-sum/) | [c](./0001-Two-Sum/two_sum.c) | [c++](./0001-Two-Sum/two_sum.cpp) |[python](./0001-Two-Sum/two_sum.py)|[go](./0001-Two-Sum/two_sum.go)|| |Easy|
 |0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [c](./0002-Add-Two-Numbers/Add_Two_Numbers.c) | [c++](./0002-Add-Two-Numbers/Add_Two_Numbers.cpp) |[python](./0002-Add-Two-Numbers/Add_Two_Numbers.py)|[go](./0002-Add-Two-Numbers/Add_Two_Numbers.go)|| |Medium|
 |0003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | c | [c++](./0003-Longest-Substring-Without-Repeating-Characters/0003.cpp) |[python](./0003-Longest-Substring-Without-Repeating-Characters/0003.py)|[go](./0003-Longest-Substring-Without-Repeating-Characters/0003.go)|| |Medium|
@@ -25,7 +25,7 @@ LeetCode
 |0019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | c | [c++](./0019-Remove-Nth-Node-From-End-of-List/0019.cpp) |[python](./0019-Remove-Nth-Node-From-End-of-List/0019.py)||| |Medium|
 |0020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | c | [c++](./0020-Valid-Parentheses/0020.cpp) |[python](./0020-Valid-Parentheses/0020.py)||| |Easy|
 |0021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | c | [c++](./0021-Merge-Two-Sorted-Lists/0021.cpp) |[python](./0021-Merge-Two-Sorted-Lists/0021.py)||| |Easy|
-|0022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | c | [c++](./0022-Generate-Parentheses/0022.cpp) |[python](./0022-Generate-Parentheses/0022.py)||| |Medium|
+|0022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | c | [c++](./0022-Generate-Parentheses/0022.cpp) |[python](./0022-Generate-Parentheses/0022.py)||| |Medium||success|
 |0023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | c | [c++](./0023-Merge-k-Sorted-Lists/0023.cpp) |[python](./0023-Merge-k-Sorted-Lists/0023.py)||| |Hard|
 |0024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | c | [c++](./0024-Swap-Nodes-in-Pairs/0024.cpp) |[python](./0024-Swap-Nodes-in-Pairs/0024.py)||| |Medium|
 |0025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | c | [c++](./0025-Reverse-Nodes-in-k-Group/0025.cpp) |[python](./0025-Reverse-Nodes-in-k-Group/0025.py)||| |Hard|
