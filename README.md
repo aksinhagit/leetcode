@@ -3,7 +3,7 @@ LeetCode
  
 
 | # | Title | c | c++ | python | go | js | java | Difficulty |
-|---| ----- | -------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ------- |
+|---| ----- | -------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | 
 |0001|[Two Sum](https://leetcode.com/problems/two-sum/) | [c](./0001-Two-Sum/two_sum.c) | [c++](./0001-Two-Sum/two_sum.cpp) |[python](./0001-Two-Sum/two_sum.py)|[go](./0001-Two-Sum/two_sum.go)|| |Easy|
 |0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [c](./0002-Add-Two-Numbers/Add_Two_Numbers.c) | [c++](./0002-Add-Two-Numbers/Add_Two_Numbers.cpp) |[python](./0002-Add-Two-Numbers/Add_Two_Numbers.py)|[go](./0002-Add-Two-Numbers/Add_Two_Numbers.go)|| |Medium|
 |0003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | c | [c++](./0003-Longest-Substring-Without-Repeating-Characters/0003.cpp) |[python](./0003-Longest-Substring-Without-Repeating-Characters/0003.py)|[go](./0003-Longest-Substring-Without-Repeating-Characters/0003.go)|| |Medium|
