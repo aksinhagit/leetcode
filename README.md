@@ -25,7 +25,7 @@ LeetCode
 |0019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | c | [c++](./0019-Remove-Nth-Node-From-End-of-List/0019.cpp) |[python](./0019-Remove-Nth-Node-From-End-of-List/0019.py)||| |Medium|
 |0020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | c | [c++](./0020-Valid-Parentheses/0020.cpp) |[python](./0020-Valid-Parentheses/0020.py)||| |Easy|
 |0021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | c | [c++](./0021-Merge-Two-Sorted-Lists/0021.cpp) |[python](./0021-Merge-Two-Sorted-Lists/0021.py)||| |Easy|
-|0022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | c | [c++](./0022-Generate-Parentheses/0022.cpp) |[python](./0022-Generate-Parentheses/0022.py)||| |Medium||success|
+|0022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | c | [c++](./0022-Generate-Parentheses/0022.cpp) |[python](./0022-Generate-Parentheses/0022.py)||| |Medium|
 |0023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | c | [c++](./0023-Merge-k-Sorted-Lists/0023.cpp) |[python](./0023-Merge-k-Sorted-Lists/0023.py)||| |Hard|
 |0024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | c | [c++](./0024-Swap-Nodes-in-Pairs/0024.cpp) |[python](./0024-Swap-Nodes-in-Pairs/0024.py)||| |Medium|
 |0025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | c | [c++](./0025-Reverse-Nodes-in-k-Group/0025.cpp) |[python](./0025-Reverse-Nodes-in-k-Group/0025.py)||| |Hard|
