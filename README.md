@@ -256,8 +256,6 @@ LeetCode
 |0401|[Binary Watch](https://leetcode.com/problems/binary-watch/) | c | [c++](./0401-Binary-Watch/0401.cpp) |[python](./0401-Binary-Watch/0401.py)||| |Easy|
 |0404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | c | [c++](./0404-Sum-of-Left-Leaves/0404.cpp) |[python](./0404-Sum-of-Left-Leaves/0404.py)||| |Easy|
 |0405|[Convert a number to hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | c | [c++](./0405-Convert-a-number-to-hexadecimal/0405.cpp) |[python](./0405-Convert-a-number-to-hexadecimal/0405.py)||| |Easy|
-
-
 |0409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|c|[c++](./0409-Longest-Palindrome/0409.cpp)|[python](./0409-Longest-Palindrome/0409.py)|[go](./0409-Longest-Palindrome/0409.go)|[js](./0409-Longest-Palindrome/0409.js)|[java](./0409-Longest-Palindrome/0409.java)|Easy|
 |0416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | c | [c++](./0416-Partition-Equal-Subset-Sum/0416.cpp) |[python](./0416-Partition-Equal-Subset-Sum/0416.py)|[go](./0416-Partition-Equal-Subset-Sum/0416.go)|[js](./0416-Partition-Equal-Subset-Sum/0416.js)|[java](./0416-Partition-Equal-Subset-Sum/0416.java) |Medium|
 |0424|[Longest Repeating Character Replacement](https://leetcode.com/problems/partition-equal-subset-sum/) | c | [c++](./0424-Longest-Repeating-Character-Replacement/0424.cpp) |[python](./0424-Longest-Repeating-Character-Replacement/0424.py)|[go](./0424-Longest-Repeating-Character-Replacement/0424.go)|[js](./0424-Longest-Repeating-Character-Replacement/0424.js)| |Medium|
